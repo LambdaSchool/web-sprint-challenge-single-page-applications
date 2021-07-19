@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button {
+  margin-left: 15px;
+}
+
+form {
+  margin: 15px;
+}
+
+label {
+  margin-right: 15px;
+}
+
+img {
+  width: 500px;
+  height: 400px;
+}
+
+.header {
+  background-color: lightcoral;
+  padding: 10px;
+}
+
+.submit {
+  margin-left: 130px;
+  padding: 10px;
+}
+
+.homePage {
+  background-color: antiquewhite;
+}
+
+.pizzaForm {
+  background-color: rgb(103, 122, 179);
+}
+
+.error {
+  color: red;
+}
