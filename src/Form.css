@@ -1,0 +1,15 @@
+#sizeinput {
+  width: 50%;
+  margin-left: 22%;
+}
+#nameinput {
+  width: 80%;
+  margin-left: 5%;
+}
+#specInstrInput {
+  width: 80%;
+  margin-left: 8%;
+}
+#order {
+  font-size: 65px;
+}
